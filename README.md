@@ -1,5 +1,5 @@
 # Crypto
-# MercaBit MBT
+# MercaBit MBT bsc
 ## Contract 0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
 ## BSCscan https://testnet.bscscan.com/token/0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
 # Pomi Coin
