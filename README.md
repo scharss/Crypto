@@ -2,7 +2,7 @@
 # MercaBit MBT bsc
 ## Contract 0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
 ## BSCscan https://testnet.bscscan.com/token/0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
-## Address Metamask  ETH - ERC20 - BNB:
+## Address Metamask  ETH - ERC20 - BNB - CRO - MATIC:
 ## 0x9814a75628d535433F078D187cd91BcC367aB2AA
 ## Bitcoin Address Trust Wallet
 ## bc1qp30myppq0h87a9r0ueeyt9yr40p7xsr4acc95r
