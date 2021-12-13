@@ -1,8 +1,6 @@
+// SPDX-License-Identifier: MIT
+//Developer https://scharss.github.io/
 
-// File: @openzeppelin/contracts@4.4.0/utils/math/SafeCast.sol
-
-
-// OpenZeppelin Contracts v4.4.0 (utils/math/SafeCast.sol)
 
 pragma solidity ^0.8.0;
 
