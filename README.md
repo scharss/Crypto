@@ -1,5 +1,5 @@
 # Crypto
-# MercaBit MBT bsc
+# MercaBit MBT BSC Testnet Network
 ## Contract 0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
 ## BSCscan https://testnet.bscscan.com/token/0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
 ## Address Metamask  ETH - ERC20 - BNB - CRO - MATIC:
