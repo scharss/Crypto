@@ -12,7 +12,7 @@
 ## 0xe568f6f96ae89c96bb51298702418f075a6e675c
 ## Address BNB Binance:
 ## 0xe568f6f96ae89c96bb51298702418f075a6e675c
-## Rinkeby TestNet
+# Rinkeby TestNet
 ## Contrato MercaBit MCB:
 ## 0x382De367b232d40a285474D2B97B0a4282c4ea39
 ## Contrato SatanBit:
