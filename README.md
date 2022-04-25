@@ -1,3 +1,36 @@
+Binance
+Referido
+
+https://accounts.binance.com/en/register?ref=281877979
+
+BTC ADDRESS
+13YYnMcdfiGLsZhiY2HZd9PyPTM2bpYLFV
+
+BNB SMART CHAIN ADDRESS
+0xe568f6f96ae89c96bb51298702418f075a6e675c
+
+ETH ADDRESS
+0xe568f6f96ae89c96bb51298702418f075a6e675c
+
+BUSD SMART CHAIN ADDRESS
+0xe568f6f96ae89c96bb51298702418f075a6e675c
+
+USDT ERC20 ADDRESS
+0xe568f6f96ae89c96bb51298702418f075a6e675c
+
+
+# ****************************************************************
+
+
+
+
+
+
+
+
+
+
+
 # Crypto
 # MercaBit MBT BSC Testnet Network
 ## Contract 0xad0cbbedac6b7842c28d21e73bc8bc9daa44a421
